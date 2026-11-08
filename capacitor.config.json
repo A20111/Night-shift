@@ -1,0 +1,6 @@
+{
+  "appId": "com.anas.nightshift",
+  "appName": "Night Shift",
+  "webDir": "www",
+  "server": { "androidScheme": "https" }
+}
